@@ -1,4 +1,4 @@
-# [protex.app](prot2tex-protein-search.vercel.app)
+# [protex.app](https://prot2tex-protein-search.vercel.app)
 
 Protex is a semantic search tool enabling researchers to search for both known & novel proteins using natural-language functional description (e.g. "Find proteins that can help degrade tyrosine phosphatase 1")
 
