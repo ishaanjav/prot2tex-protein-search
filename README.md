@@ -2,7 +2,7 @@
 
 Protex is a semantic search tool enabling researchers to search for both known & novel proteins using natural-language functional description (e.g. "Find proteins that can help degrade tyrosine phosphatase 1")
 
-***Made with: @rdilip, @alexub, @shawndimantha.** 2nd place at Scale AI's Generative AI Hackathonn*
+***Made with: @rdilip, @alexub, @shawndimantha.** 2nd place at Scale AI's Generative AI Hackathon*
 
 ## How it works
 [**Demonstration Video**](https://youtu.be/m75GaY_1BoE)
