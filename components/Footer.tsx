@@ -25,6 +25,7 @@ export default function Footer() {
         <Link
           href="https://youtu.be/m75GaY_1BoE"
           className="group"
+          target='_blank'
           aria-label="Demo Video"
         >
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -36,6 +37,7 @@ export default function Footer() {
           href="https://github.com/ishaanjav/prot2tex-protein-search"
           className="group"
           aria-label="GitHub"
+          target='_blank'
         >
           <svg
             aria-hidden="true"
