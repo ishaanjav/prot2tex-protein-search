@@ -105,7 +105,10 @@ const Home: NextPage = () => {
         </h1>
         <p className="text-slate-500 mt-5"><i>498,828 proteins found so far.</i></p>
         <p className="text-slate-500 mt-5" style={{ color: '#e04f00' }}>
-          <i>This is the front-end only. Visit <a target="_blank" href="https://github.com/ishaanjav/prot2tex-protein-search" style={{ textDecoration: 'underline', color: '#e04f00' }}>GitHub repo</a> to see how to run backend as well.</i>
+          <i>This is the frontend only. Visit <a target="_blank"
+            href="https://github.com/ishaanjav/prot2tex-protein-search#how-to-use"
+            style={{ textDecoration: 'underline', color: '#e04f00' }}>GitHub repo</a>
+            to run backend as well.</i>
         </p>
 
         <div className="max-w-xl w-full">
