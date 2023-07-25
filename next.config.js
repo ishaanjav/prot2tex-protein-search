@@ -4,7 +4,7 @@ module.exports = {
     return [
       {
         source: '/github',
-        destination: 'https://github.com/Nutlope/twitterbio',
+        destination: 'https://github.com/ishaanjav/prot2tex-protein-search',
         permanent: false,
       },
       {

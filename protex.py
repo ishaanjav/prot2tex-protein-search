@@ -8,6 +8,10 @@ import pandas as pd
 import openai
 import pickle
 
+import os
+
+openai.api_key = '<API KEY HERE>'
+
 
 def sanitize_text(text):
     sanitized_text = re.sub(r'[^a-zA-Z0-9 .,]+', ' ', text)

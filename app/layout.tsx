@@ -6,7 +6,7 @@ const title = 'Twitter Bio Generator';
 const description = 'Generate your next Twitter bio in seconds.';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://twitterbio.io'),
+  metadataBase: new URL('https://github.com/ishaanjav/prot2tex-protein-search'),
   title,
   description,
   openGraph: {
